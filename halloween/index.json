@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "setup": "What do birds say on Halloween?",
+    "punchline": "Trick or tweet!"
+  },
+  {
+    "id": 2,
+    "setup": "Why don’t skeletons ever go trick or treating?",
+    "punchline": "Because they have no-body to go with."
+  },
+  {
+    "id": 3,
+    "setup": "Where do ghosts buy their Halloween candy?",
+    "punchline": "At the ghost-ery store!"
+  },
+  {
+    "id": 4,
+    "setup": "What do owls say when they go trick or treating?",
+    "punchline": "Happy Owl-ween!"
+  },
+  {
+    "id": 5,
+    "setup": "What do ghosts give out to trick or treaters?",
+    "punchline": "Booberries!"
+  },
+  {
+    "id": 6,
+    "setup": "Who did Frankenstein go trick or treating with?",
+    "punchline": "His ghoul friend."
+  },
+  {
+    "id": 7,
+    "setup": "What Halloween candy is never on time for the party?",
+    "punchline": "Choco-LATE!"
+  }
+  
+]
