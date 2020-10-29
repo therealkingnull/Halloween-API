@@ -40,7 +40,7 @@ Open halloween/index.js
 
 ### Fact
 
-Open halloween/fact.js
+Open halloween/facts.js
 
 ```javascript
 {
@@ -51,7 +51,7 @@ Open halloween/fact.js
 
 ### Image
 
-Open halloween/image.js
+Open halloween/images.js
 ```javascript
 {
   "id": image id before + 1,
