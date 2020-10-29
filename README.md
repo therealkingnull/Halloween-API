@@ -27,6 +27,9 @@ The official repository for the Halloween API.
 Submit a Pull Request. Make sure to follow this format for the different endpoints:
 
 ### Joke
+
+Open halloween/index.js
+
 ```javascript
 {
   "id": joke id before + 1,
@@ -36,6 +39,9 @@ Submit a Pull Request. Make sure to follow this format for the different endpoin
 ```
 
 ### Fact
+
+Open halloween/fact.js
+
 ```javascript
 {
   "id": fact id before + 1,
@@ -44,6 +50,8 @@ Submit a Pull Request. Make sure to follow this format for the different endpoin
 ```
 
 ### Image
+
+Open halloween/image.js
 ```javascript
 {
   "id": image id before + 1,
