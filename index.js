@@ -14,7 +14,7 @@ app.use((req, res, next) => {
 app.get('/', (req, res) => {
     var str = "Check out the repository on github";
 var result = str.link("https://www.w3schools.com");
-  res.send('Add /halloween_joke, /halloween_fact, or /halloween_image to the end of the URL to get your data \n ' + result);
+  res.send('Add /halloween_joke, /halloween_fact, or /halloween_image to the end of the URL to get your data <br>' + result + '</br>');
 });
 
 app.get('/ping', (req, res) => {
