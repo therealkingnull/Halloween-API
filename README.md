@@ -61,8 +61,4 @@ Updates will be added frequently, so make sure to stay tuned for those.
 
 ***
 
-Thanks for checking out the api, and happy Halloween! :pumpkin:
-
-Thanks for checking out the api, and enjoy using it!
-
-
+Thanks for checking out the api, and happy Halloween! 🎃
