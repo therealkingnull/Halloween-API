@@ -5,7 +5,7 @@
   <h3 align="center">🎃👻🕯️ Halloween API 🕯️👻🎃</h3>
   
 
-The official repository for the Halloween API.
+<p align="center">The official repository for the Halloween API.</p>
 
 ## Data
 
