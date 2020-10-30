@@ -24,6 +24,11 @@
 
 [https://halloweenapi.herokuapp.com/halloween_image](https://halloweenapi.herokuapp.com/halloween_image)
 
+
+### Return A Random Halloween Movie:
+
+[https://halloweenapi.herokuapp.com/halloween_movie](https://halloweenapi.herokuapp.com/halloween_movie)
+
 ***
 
 
@@ -33,7 +38,7 @@ Submit a Pull Request. Make sure to follow this format for the different endpoin
 
 ### Joke
 
-Open halloween/index.js
+Open halloween/index.json
 
 ```javascript
 {
@@ -45,7 +50,7 @@ Open halloween/index.js
 
 ### Fact
 
-Open halloween/facts.js
+Open halloween/facts.json
 
 ```javascript
 {
@@ -56,7 +61,7 @@ Open halloween/facts.js
 
 ### Image
 
-Open halloween/images.js
+Open halloween/images.json
 ```javascript
 {
   "id": image id before + 1,
@@ -64,6 +69,22 @@ Open halloween/images.js
   "title": "Scary pumpkin",
   "format": "jpg"
   }
+```
+
+### Movie
+
+Open halloween/movies.json
+```javascript
+ {
+      "id": movie id before +1,
+      "name": "Goosebumps",
+      "description": "Upset about moving from the big city to a small town, young Zach Cooper (Dylan Minnette) finds a silver lining when he meets his beautiful neighbor Hannah (Odeya Rush). The teen is surprised to learn that Hannah's mysterious father is R.L. Stine (Jack Black), the famous author of the best-selling 'Goosebumps' series. When Zach accidentally unleashes the monsters from the fantastic tales, it's up to Stine, his daughter and Cooper to return the beasts back to the books where they belong.",
+      "runtime": "1h 43m",
+      "release-date": "October 16, 2015",
+      "mpaa-rating": "PG",
+      "mpaa-description": "Rated PG for scary and intense creature action and images, and for some rude humor.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4k8uWafC44xM2Tf-0aCE-_4xj6qHaq86WKMIDMYQVvWnvNmL1"
+    }
 ```
 
 ***
