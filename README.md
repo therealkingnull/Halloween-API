@@ -7,7 +7,7 @@
 
 <p align="center">The official repository for the Halloween API.</p>
 
-## Data
+# Data
 
 ## Main Site:
 [https://halloweenapi.herokuapp.com/](https://halloweenapi.herokuapp.com/)
