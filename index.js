@@ -1,6 +1,6 @@
 const express = require('express');
 const LimitingMiddleware = require('limiting-middleware');
-const { randomHalloweenJoke, randomHalloweenFact, randomHalloweenImage } = require('./handler');
+const { randomHalloweenJoke, randomHalloweenFact, randomHalloweenImage, randomHalloweenMovie } = require('./handler');
 
 const app = express();
 
@@ -14,7 +14,7 @@ app.use((req, res, next) => {
 app.get('/', (req, res) => {
     var str = "Check out the repository on github";
 var result = str.link("https://github.com/therealkingnull/Halloween-API");
-  res.send('Add /halloween_joke, /halloween_fact, or /halloween_image to the end of the URL to get your data <br>' + result + '</br>');
+  res.send('Add /halloween_joke, /halloween_fact, /halloween_movie, or /halloween_image to the end of the URL to get your data <br>' + result + '</br>');
 });
 
 app.get('/ping', (req, res) => {
@@ -31,6 +31,10 @@ app.get('/halloween_joke', (req, res) => {
 
 app.get('/halloween_image', (req, res) => {
   res.json(randomHalloweenImage());
+});
+
+app.get('/halloween_movie', (req, res) => {
+  res.json(randomHalloweenMovie());
 });
 
 

@@ -22,5 +22,13 @@ const randomHalloweenImage = () => {
 }
 
 
+//Movies
+const movie = require('./halloween/movies.json');
+
+const randomHalloweenMovie = () => {
+  return movie[Math.floor(Math.random() * movie.length)];
+}
+
+
 //Export
-module.exports = { halloweenJoke, randomHalloweenJoke, randomHalloweenFact, randomHalloweenImage };
+module.exports = { halloweenJoke, randomHalloweenJoke, randomHalloweenFact, randomHalloweenImage, randomHalloweenMovie };
