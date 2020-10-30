@@ -8,5 +8,45 @@
       "mpaa-rating": "PG",
       "mpaa-description": "Rated PG for scary and intense creature action and images, and for some rude humor.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4k8uWafC44xM2Tf-0aCE-_4xj6qHaq86WKMIDMYQVvWnvNmL1"
-    }
+    },
+    {
+        "id": 2,
+        "name": "It",
+        "description": "Seven young outcasts in Derry, Maine, are about to face their worst nightmare -- an ancient, shape-shifting evil that emerges from the sewer every 27 years to prey on the town's children. Banding together over the course of one horrifying summer, the friends must overcome their own personal fears to battle the murderous, bloodthirsty clown known as Pennywise.",
+        "runtime": "2h 26m",
+        "release-date": "September 5, 2017",
+        "mpaa-rating": "R",
+        "mpaa-description": "Rated R for violence/horror and bloody images.",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjg1YTRkNzQtODgyYi00MTQ5LThiMDYtNDJjMWRjNTdjZDZlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+      },
+      {
+        "id": 3,
+        "name": "The Addams Family",
+        "description": "When a man (Christopher Lloyd) claiming to be Fester, the missing brother of Gomez Addams (Raul Julia), arrives at the Addams' home, the family is thrilled. However, Morticia (Anjelica Huston) begins to suspect the man is a fraud, since he cannot recall details of Fester's life. With the help of lawyer Tully Alford (Dan Hedaya), Fester manages to get the Addams clan evicted from their home. Gomez realizes the two men are conspiring to swindle the Addams fortune and that he must challenge Fester.",
+        "runtime": "1h 50m",
+        "release-date": "November 22, 1991",
+        "mpaa-rating": "PG-13",
+        "mpaa-description": "Rated PG-13 for violent images and sexual innuendo.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKju7EO0MFU4KppcK_2BPwPuW_zuPuoSKOLPw0BOyp0N8ZuZy"
+      },
+      {
+        "id": 4,
+        "name": "Ghostbusters",
+        "description": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become 'ghostbusters' to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
+        "runtime": "1h 47min",
+        "release-date": "June 7, 1984",
+        "mpaa-rating": "PG",
+        "mpaa-description": "Rated PG for its language, innuendo and potentially scary scenes.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQguiu7v1qhYwW6rr1y01mXwIgOvNAFh-_-fmnt5x-OpWpCnGP"
+      },
+      {
+        "id": 5,
+        "name": "A Quiet Place",
+        "description": "If they hear you, they hunt you. A family must live in silence to avoid mysterious creatures that hunt by sound. Knowing that even the slightest whisper or footstep can bring death, Evelyn and Lee are determined to find a way to protect their children while desperately searching for a way to fight back.",
+        "runtime": "1h 31m",
+        "release-date": "April 6, 2018",
+        "mpaa-rating": "PG-13",
+        "mpaa-description": "Rated PG-13 for terror and bloody images.",
+        "image": "https://pbs.twimg.com/media/DVOikE9V4AEalKX.jpg"
+      }
 ]
