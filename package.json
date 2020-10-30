@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Returns facts/jokes/images about Halloween",
   "main": "index.js",
+  "engines": {
+    "node": "15.0.1"
+  },
   "scripts": {
     "test": "node ./test.js",
     "start": "node ./",
