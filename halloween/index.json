@@ -2,7 +2,7 @@
   {
     "id": 1,
     "setup": "What do birds say on Halloween?",
-    "punchline": "Trick or tweet!"
+    "punchline": "'Trick or tweet!'"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
   {
     "id": 4,
     "setup": "What do owls say when they go trick or treating?",
-    "punchline": "Happy Owl-ween!"
+    "punchline": "'Happy Owl-ween!'"
   },
   {
     "id": 5,
@@ -33,6 +33,21 @@
     "id": 7,
     "setup": "What Halloween candy is never on time for the party?",
     "punchline": "Choco-LATE!"
+  },
+  {
+    "id": 8,
+    "setup": "What do witches put on to go trick or treating?",
+    "punchline": "Mas-scare-a."
+  },
+  {
+    "id": 9,
+    "setup": "What does Bigfoot say when he asks for candy?",
+    "punchline": "'Trick-or-feet!'"
+  },
+  {
+    "id": 10,
+    "setup": "Which type of pants do ghosts wear to trick or treat?",
+    "punchline": "Boo jeans."
   }
   
 ]
